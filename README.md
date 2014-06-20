@@ -35,6 +35,8 @@
   for new datatypes, i would start at the controller, then
   follow the yellow brick stack exceptions.
   
+  At the index / routing level you can add extra layers / logic, such as security.
+  
 ## License
 
   MIT
