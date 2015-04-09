@@ -2,8 +2,7 @@
 
   RESTful web service, talks to mysql, returns JSON.
   
-  Written in PHP because i see far too many devs looking down on PHP,
-  when its not PHP thats the problem its the devs writing it.
+  Written in PHP for fun and because PHP is pretty darn nifty.
   
   As far as REST stuffs goes i would go for a node.js option but
   the deployment of which costs big monney for a project which
