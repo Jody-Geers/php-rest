@@ -4,11 +4,8 @@
   
   Written in PHP for fun and because PHP is pretty darn nifty.
   
-  As far as REST stuffs goes i would go for a node.js option but
-  the deployment of which costs big monney for a project which
-  might not even be earning any income at all, hosting PHP is cheap,
-  when your company grows than you can rethink of your REST service
-  environment / language, just keep the same API. =-)
+  A node.js example i wrote here : https://github.com/Jody-Geers/node-rest
+  =-)
 
 ## Installation
 
