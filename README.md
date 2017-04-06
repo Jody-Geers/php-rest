@@ -1,5 +1,7 @@
 # php-rest
 
+  This Repo has been replaced by : https://github.com/Jody-Geers/php-data-service
+
   RESTful web service, talks to mysql, returns JSON.
   
   Written in PHP for fun and because PHP is pretty darn nifty.
